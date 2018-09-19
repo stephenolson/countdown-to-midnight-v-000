@@ -4,7 +4,7 @@
 
 def countdown
   
-  number = 10
+  number = 11
   
     loop do
       number -= 1
