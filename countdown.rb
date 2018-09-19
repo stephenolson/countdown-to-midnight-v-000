@@ -2,7 +2,7 @@
 
 
 
-def countdown(10 seconds)
+def countdown(10.seconds)
   
   number = 10
   
@@ -13,4 +13,4 @@ def countdown(10 seconds)
         puts "HAPPY NEW YEAR!"
 end
 
-countdown
+countdown 10
