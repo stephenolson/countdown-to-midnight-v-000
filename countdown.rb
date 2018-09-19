@@ -6,11 +6,7 @@ def countdown
   
     loop do
       number -=1
-      while number.between?(10,2)
-        puts "#{number} SECONDS!"
-      while number == 1 
-        puts "#{number} SECOND!"
-      else
+      while number 
         puts "HAPPY NEW YEAR!"
       end
     end
