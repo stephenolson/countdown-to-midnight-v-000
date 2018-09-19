@@ -2,7 +2,7 @@
 
 number = 10
 
-def countdown(number)
+def countdown
   
       while number > 0
         puts "#{number} SECOND(S)!"
@@ -11,6 +11,6 @@ def countdown(number)
         puts "HAPPY NEW YEAR!"
 end
 
-countdown(number)
+countdown
 
 
