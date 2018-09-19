@@ -7,7 +7,7 @@ def countdown
     loop do
       number -=1
       while number > 1
-        puts "HAPPY NEW YEAR!"
-      end
+        puts "#{number} SECOND(S)!"
+      
     end
 end
