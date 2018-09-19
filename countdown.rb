@@ -1,7 +1,9 @@
 #write your code here
 
+number = 10
+
 def countdown
-  number = 10
+  
     loop do
       number -=1
       if number.between?(10,2)
