@@ -2,7 +2,7 @@
 
 
 
-def countdown
+def countdown(number)
   
   number = 10
   
