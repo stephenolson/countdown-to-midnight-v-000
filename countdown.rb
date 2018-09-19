@@ -6,7 +6,7 @@ def countdown
   
     loop do
       number -=1
-      while number 
+      while number > 1
         puts "HAPPY NEW YEAR!"
       end
     end
